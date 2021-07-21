@@ -48,11 +48,11 @@ Unit tests and integration tests
 
 Evidence of unit and integration tests:
 
-![Screenshot](./screenshots/UnitTests.png)
+[Test Results - All_in_spring-boot-demo.html](Test Result)
 
-Coverage of the tests and number of lines tested, using the Coverage tool:
+Coverage of the tests and number of lines tested, using the IDE Coverage tool:
 
-![Screenshot](./screenshots/JavaCodeCoverage.png)
+![Screenshot](coverage.png)
 
 
 Technical aspects
